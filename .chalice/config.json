@@ -4,6 +4,13 @@
   "stages": {
     "dev": {
       "api_gateway_stage": "api",
+      "environment_variables": {
+        "USER": "eagreda",
+        "PASS": "kZyKOA1UQFcSztb0aaYg",
+        "NAME": "challenge",
+        "HOST": "ezaurita-challenge.c5skjslbkzzb.us-east-1.rds.amazonaws.com",
+        "DRIVER": "postgresql+psycopg2"
+      },
       "automatic_layer": true
     }
   }

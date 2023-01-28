@@ -1,8 +1,7 @@
 from chalice import Chalice
 
 # modulos para crear la conexón a la Base de Datos
-from sqlalchemy import create_engine, text
-from sqlalchemy import __version__
+from sqlalchemy import create_engine
 from sqlalchemy.orm import Session
 
 from sqlalchemy import Column
