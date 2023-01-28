@@ -1,6 +1,6 @@
 .chalice/deployments/
 .chalice/venv/
-.chalice/
+.chalice/config.json
 
 __pycache__/
 *.py[cod]
